@@ -1,12 +1,12 @@
 # Smart Meter Data Processing and Reporting System
 
-## This project was developed to collect, process and report data from smart meters. Technologies such as .NET Core, Angular, RabbitMQ, PostgreSQL, and MSSQL were used in the project. Below is detailed information about the project and installation instructions.
+#### This project was developed to collect, process and report data from smart meters. Technologies such as .NET Core, Angular, RabbitMQ, PostgreSQL, and MSSQL were used in the project. Below is detailed information about the project and installation instructions.
 Technologies Used
 
-MeterService:
-.NET Core Web API
-Entity Framework Core
-MS SQL Database
+### MeterService:
+#### .NET Core Web API
+#### Entity Framework Core
+#### MS SQL Database
 
 ReportService:
 .NET Core Web API
